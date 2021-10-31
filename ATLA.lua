@@ -1,3 +1,4 @@
+-- Fuck You Soul
 game.StarterGui:SetCore("SendNotification",{
     Text = "Successfully Executed!",
     Title = "ATLA Script",
